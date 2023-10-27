@@ -2,14 +2,11 @@
 
 using namespace std;
 
-int main()
+int main ()
 {
-    float a,b,c;
-    cout << "What should be 'a'?" << endl;
-    cin >> a;
-    cout << "What should be 'b'?" << endl;
-    cin >> b;
-    c = a + b;
-    cout << "The Sum of both is " << c << endl;
-    return 0;
+    float n,sum,m;
+    sum = 0;
+    cout << "Enter a 2 digit number \n";
+    cin >> n;
+
 }
